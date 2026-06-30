@@ -83,4 +83,4 @@ The scraper uses **SHA-256 hashing** to detect changes:
 
 ## Screenshot
 
-![Assistant answering sample question](screenshots/optibot-answer.png)
+![Assistant answering sample question](optibot-answer/answer.png)
