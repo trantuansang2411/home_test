@@ -1,12 +1,12 @@
 # AI Support Bot Clone
 
-A mini-clone of OptiBot — customer support chatbot for OptiSigns. It scrapes support articles, converts them to Markdown, and uploads to an AI-powered vector store for intelligent Q&A.
+A mini-clone of OptiBot — customer support chatbot for OptiSigns. It scrapes support articles, converts them to Markdown, and uploads to Google Gemini Files API for intelligent Q&A.
 
 ## Features
 
 - 🕷️ **Web Scraper**: Fetches articles from OptiSigns Zendesk support center
 - 🔄 **Delta Detection**: Only uploads new/updated articles (using SHA-256 hashing)
-- 🤖 **AI Assistant**: OpenAI Assistant with vector store for accurate answers with citations
+- 🤖 **AI Assistant**: Powered by Google Gemini API using uploaded Markdown files as context
 - ⏰ **Daily Job**: Automated daily scraping via GitHub Actions cron job
 - 🐳 **Dockerized**: One command to build and run
 
@@ -25,8 +25,7 @@ A mini-clone of OptiBot — customer support chatbot for OptiSigns. It scrapes s
 
 3. Add your API key to `.env`:
    ```
-   OPENAI_API_KEY=sk-proj-your-key-here
-   VECTOR_STORE_ID=vs_your_id_here
+   GEMINI_API_KEY=AIzaSy-your-key-here
    ```
 
 4. Install dependencies:
@@ -36,7 +35,7 @@ A mini-clone of OptiBot — customer support chatbot for OptiSigns. It scrapes s
 
 ## Run Locally
 
-### First time (scrape all articles + create vector store):
+### First time (scrape all articles + upload to Gemini):
 ```bash
 python main.py
 ```
@@ -46,7 +45,7 @@ python main.py
 python scrape.py
 ```
 
-### Upload only (existing articles to new vector store):
+### Upload only (existing articles to Gemini Files API):
 ```bash
 python upload_vectorstore.py
 ```
@@ -55,7 +54,7 @@ python upload_vectorstore.py
 
 ```bash
 docker build -t optibot .
-docker run -e OPENAI_API_KEY=your_key -e VECTOR_STORE_ID=your_vs_id optibot
+docker run -e GEMINI_API_KEY=your_key optibot
 ```
 
 ## Daily Job
@@ -67,11 +66,11 @@ docker run -e OPENAI_API_KEY=your_key -e VECTOR_STORE_ID=your_vs_id optibot
 
 ### Setup GitHub Secrets:
 1. Go to repo **Settings** → **Secrets and variables** → **Actions**
-2. Add `OPENAI_API_KEY` and `VECTOR_STORE_ID`
+2. Add `GEMINI_API_KEY`
 
-## Chunking Strategy
+## File Processing Strategy
 
-Files are uploaded as-is to the OpenAI Vector Store, which uses its built-in chunking with the `auto` strategy. Each Markdown file represents one support article, keeping context intact per article. OpenAI's default chunking (max 800 tokens, 400 token overlap) handles splitting for retrieval.
+Files are uploaded as-is to the Google Gemini Files API. Each Markdown file represents one support article, keeping the context intact per article. The Gemini models can ingest these files directly into their context window for precise retrieval and generation.
 
 ## Delta Detection
 
