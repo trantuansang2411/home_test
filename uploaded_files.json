@@ -209,10 +209,10 @@
   "how-to-use-google-calendar-with-optisigns.md": "files/roj4ikwu5p1n",
   "how-to-use-google-docs-with-optisigns.md": "files/m2373tgbx2nb",
   "how-to-use-google-drive-app.md": "files/atzcj7hurss1",
-  "how-to-use-google-sheets-with-optisigns.md": "files/60t1bvqebbwu",
+  "how-to-use-google-sheets-with-optisigns.md": "files/d4vtpuziml4e",
   "how-to-use-google-slides-with-optisigns.md": "files/b1yoy4lhymyg",
-  "how-to-use-google-traffic-app.md": "files/37sspnjly182",
-  "how-to-use-google-trends-app.md": "files/e51tkazn7cak",
+  "how-to-use-google-traffic-app.md": "files/vlla7u1euk0q",
+  "how-to-use-google-trends-app.md": "files/uuzfpjr2i6gk",
   "how-to-use-hdmi-other-video-input-sources-in-with-optisigns.md": "files/sdg0h7x0k0jo",
   "how-to-use-icloud-calendar-with-optisigns.md": "files/vxjdca4i72c5",
   "how-to-use-imovie-content-with-optisigns.md": "files/0mauwovp13d8",
@@ -428,5 +428,8 @@
   "build-integrations-using-the-optisigns-enterprise-app.md": "files/swbne2u847hi",
   "using-rs232-to-schedule-tv-power-onoff-or-other-commands.md": "files/8gg08fmuosg2",
   "how-to-use-the-youtube-playlist-app-with-optisigns.md": "files/iegll2qhjtqr",
-  "how-to-use-the-on-this-day-app.md": "files/xv87hljml56y"
+  "how-to-use-the-on-this-day-app.md": "files/xv87hljml56y",
+  "connect-sharepoint-news-to-optisigns-digital-signage.md": "files/eqf4l1gfsg75",
+  "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": "files/g00oofxnpubv",
+  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": "files/isgtr8lcd614"
 }
