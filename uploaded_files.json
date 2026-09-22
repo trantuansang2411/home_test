@@ -35,7 +35,7 @@
   "chromeos-pwa-instructions.md": "files/3zzzhnysadxd",
   "clean-install-of-optisigns-player-on-windows.md": "files/jjl00g97lzin",
   "clean-install-optisigns-on-raspberry-pilinux.md": "files/og5epftttnyl",
-  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": "files/s27c3i5nh1to",
+  "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": "files/v62ycqf8mx5r",
   "connect-cisco-webex-rooms-to-optisigns-digital-signage.md": "files/kaiz7xdbaq0p",
   "connect-google-meet-hardware-to-optisigns-digital-signage.md": "files/lf0tbgr3dj60",
   "connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": "files/z3g6mcdmrdmw",
@@ -333,7 +333,7 @@
   "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md": "files/vt7o6qrchp26",
   "optisigns-getting-started-guide.md": "files/osvcxxm42tcx",
   "optisigns-iot-sensor-add-on-quick-start.md": "files/t48opz8sj2v1",
-  "optisigns-pro-player-advanced-features.md": "files/7o6fi4f629kc",
+  "optisigns-pro-player-advanced-features.md": "files/7o04co2wzrdj",
   "optisigns-propromax-player-troubleshooting-guide.md": "files/vj3em014p15j",
   "optisigns-side-menu-options.md": "files/wuqrcnzbrnte",
   "optistick-troubleshooting-guide.md": "files/bqepyhm60bvv",
@@ -431,5 +431,8 @@
   "how-to-use-the-on-this-day-app.md": "files/xv87hljml56y",
   "connect-sharepoint-news-to-optisigns-digital-signage.md": "files/eqf4l1gfsg75",
   "how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": "files/g00oofxnpubv",
-  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": "files/isgtr8lcd614"
+  "broadcast-send-scheduled-snapshots-of-your-dashboards.md": "files/isgtr8lcd614",
+  "using-the-japan-transit-app.md": "files/r65podwduec2",
+  "setting-up-audit-logging.md": "files/9i6rq9aurrsi",
+  "multilingual-and-multi-currency-options.md": "files/qooruhpwm2pk"
 }
