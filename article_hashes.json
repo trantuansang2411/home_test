@@ -1,6 +1,6 @@
 {
   "how-to-use-the-weather-radar-app": "e846392a081de158926d6d7fcd99cda0d908793836f76c3921938ce3164be518",
-  "how-to-display-salesforce-dashboards-and-reports-on-optisigns": "9fdf3bb14a46dbc44b2c8da214c53494193de3b4855527d5f0d548335e01066f",
+  "how-to-display-salesforce-dashboards-and-reports-on-optisigns": "f0be2d6f92f750ec4743afdfda641f48f6d4e6e2efe8db1bb8aa09c16ca5c1c3",
   "inbound-webhook-datasources-in-designer": "14970a5831e8011a1d90aad6ef0bc106c814e5424c20592964e2f982af22a2cf",
   "using-the-x-social-app-add-on": "a3ac253ebcc7d3c81422ff7f0c782993736518509d91830cfb02e5f2123cc9df",
   "using-the-flight-schedule-app": "2c073ec12285927126ee1213d49975dcd60695ee6c43437318cad5d8d184a7a1",
@@ -53,7 +53,7 @@
   "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync": "1dfaa521daa12d59c1f3eb8cfeb6c9ddc971ef38f5f1f243efb0cb88944e0f2a",
   "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": "3fad90826d25be2d57d59b8c32068f041079b7bcad1f01d29a842b6035e6168d",
   "getting-started-with-touch-screen-kiosks": "4b52dca0915266ab71502d21cb84c5bcd8a9c0f0797b3ca6f088b1c05d4e563e",
-  "how-to-use-toast-api-data-with-optisigns": "20498c156d98ba191de295296a767ed7e6e408980e51502d8ab0502e941bcd6a",
+  "how-to-use-toast-api-data-with-optisigns": "a21156bd9d3ff461c05cf9c36001ea22fc3955e8954c4589313c86feb1285681",
   "enabling-lock-down-mode-on-touch-screen-devices": "6a434f5613225d530803a560941b0d2b406342df7579f5531a8142ce8ec9acb4",
   "how-to-use-the-mobile-app-for-remote-control": "9bb85c8c05e32060d05075dbd96702079df96ca9d6b694a651b6c297c80e9aa2",
   "guide-for-creating-content-with-optisigns": "31063af0cec034fd3a59826ad7ecf8869bc883adca39171f4099d76f41b097f2",
@@ -217,7 +217,7 @@
   "proplayer": "947fea8fe2bd33bf24626ac576badcfe8318278ebc49001d11767e765fbe5870",
   "how-to-use-the-optisigns-mobile-admin-app": "316a48a53381b403973e635c19890ecb7f4343b0403952df4a355729662ef4fe",
   "how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync": "b001b6e0c9d5d4d8a4d05ecd9dceb0878747d3ce9ff9cbb26f812c63ed5d5c01",
-  "how-to-manage-and-edit-your-playlist-settings": "d9eb6ab2847e77bbb464e9ceb46ad1a6bf9f6b7051e58bb2f483f74cbccf8f57",
+  "how-to-manage-and-edit-your-playlist-settings": "e59b913367455e4ad175d9c6a560788780408e8432aa8b8461b6e4c69ccfc4be",
   "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3": "7588411f1e0a0a71c8c22bc7634f22187130287bca915ba4838caa77df8e078b",
   "how-to-get-the-most-out-of-your-digital-signs": "246d719cf4f4881ae49461604d0d1491628e7e5d4e6ba0b9af159529d084e53b",
   "how-to-share-contents-with-other-usersteams": "fec4c14c30f0d44891beeb80569aa5ade3d0f17a06b81f4196d8d6d3eacaaf1e",
@@ -324,7 +324,7 @@
   "use-your-macwindows-device-as-a-test-screen": "7e638fa14359f1d50068dc7e1c14f2f07564dfc9127441f01426d17511a319fa",
   "how-do-i-suggest-new-features-improvement": "f0218141235011624e88f633695a95874e412a949e3570a9475780f0e9cacb04",
   "how-to-use-the-qr-scan-to-interact-touchless-qr-app": "e63629111755f8b372e86a69985b5800681b06a61958800ebeb2d9b84f53d617",
-  "how-to-display-smartsheet-report-on-optisigns": "b7ec94b63688dcb926c21bc6da959b383d6d2ee528a0896be6a5a3a1eea9a1c4",
+  "how-to-display-a-smartsheet-report-on-optisigns": "696ba222d1e9276470c7ea1e9c9ebc708c4504450bf5899d46a5d1f6b414397d",
   "how-to-use-the-video-stream-app": "f72cf46a07e787a6078e97cb453d3ac23817681d97037fa0881e61bfc914efdb",
   "how-to-use-rtsp-streams-on-optisigns-devices": "85cd00aaa14063e3ce18b53e6c9a6c1c51342d3ab529cf09c7f86fe06b42f1de",
   "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns": "d4bca23e191b03aea2326bbb17d93a648407ec7ca78cb494166e7e0aeac77e16",
@@ -412,6 +412,6 @@
   "how-to-use-published-google-slides-with-optisigns-old-way": "24846edb4db41bb56753ff113cd3e5e8f8d2a6b605f3d0bbc003bd021160491e",
   "how-to-use-the-news-app": "1736311c1933d7f2fa8e85eef64348e0defa0d08160a99af633c4145094c7555",
   "how-to-use-google-calendar-with-optisigns": "1e82b286aa6efa1bdffa66d4a949aec64fe9989eaaf6780ee0d4ebb8081ae4b2",
-  "how-to-add-use-vimeo-video-with-optisigns": "f5f4f3e36b866ec9c4005b13a2659bd0ac00922fd48258388ce72cbb0c80cd1c",
+  "how-to-display-vimeo-videos-with-optisigns": "927fabbb41fe0c61b4c8053312bb118ef093edb49a1aabd8144166fc300e9b7c",
   "how-to-use-the-website-app-and-display-urls-on-optisigns": "9a135d7bf3f5402f16831bd7d3797414141ae53cd69b37acffe0cbe56cabb935"
 }
