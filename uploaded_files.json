@@ -32,7 +32,7 @@
   "can-i-have-my-invoices-receipts-sent-to-a-different-email-address.md": "files/itqtbgna5fvy",
   "cannot-find-the-optisigns-app-on-your-samsung-smart-tv.md": "files/icb81j2fb3e0",
   "changing-screens-orientation-portrait-landscape.md": "files/undqm0ys8ogh",
-  "chromeos-pwa-instructions.md": "files/3zzzhnysadxd",
+  "chromeos-pwa-instructions.md": "files/u6snmrbugxwo",
   "clean-install-of-optisigns-player-on-windows.md": "files/jjl00g97lzin",
   "clean-install-optisigns-on-raspberry-pilinux.md": "files/og5epftttnyl",
   "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": "files/v62ycqf8mx5r",
@@ -52,7 +52,7 @@
   "display-salesforce-dashboards-with-mfa-using-web-scripting.md": "files/4xmido7g6gln",
   "displaying-sharepoint-sites-on-optisigns.md": "files/9e02pad1gfif",
   "does-optisigns-offer-non-profiteducation-discount.md": "files/yshz8gal5wk6",
-  "edit-screen-what-does-each-option-do.md": "files/53pwk736lkqv",
+  "edit-screen-what-does-each-option-do.md": "files/hb78xpubaw93",
   "enabling-lock-down-mode-on-touch-screen-devices.md": "files/94y03wh0vg1f",
   "engage-plan-faqs.md": "files/41bk4iuan08r",
   "error-handling.md": "files/ilbxrkr906xq",
@@ -148,7 +148,7 @@
   "how-to-keep-optisigns-running-on-fire-stick.md": "files/a593sadckhhr",
   "how-to-link-instagram-business-or-creator-account-to-facebook-account.md": "files/5ejnu5242g8z",
   "how-to-lockdown-ipadsingle-app-with-guided-accessibility.md": "files/zv45b9oza3a9",
-  "how-to-manage-and-edit-your-playlist-settings.md": "files/2sgwmpu42vbr",
+  "how-to-manage-and-edit-your-playlist-settings.md": "files/lkm149j8bncn",
   "how-to-manage-sub-account-billing-with-optisigns.md": "files/8la382922bi7",
   "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi.md": "files/qcantedl6h41",
   "how-to-mass-deploy-optisigns-on-raspberry-pi-devices.md": "files/s4jy0n5uhn6c",
@@ -157,7 +157,7 @@
   "how-to-order-a-preconfigured-optisigns-android-player-device.md": "files/9b6gsn6pypxm",
   "how-to-organize-templates-and-share-across-teams.md": "files/7phlu1adyljl",
   "how-to-perform-mass-provisioning-with-optisigns.md": "files/8m5rylgmdb9n",
-  "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": "files/cn35wodcuji1",
+  "how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": "files/y18rr61yg9ry",
   "how-to-preview-a-screen.md": "files/bm8x3dwr49td",
   "how-to-put-live-tv-on-your-screens-with-optisigns.md": "files/izst2cb5n22p",
   "how-to-put-zendesk-dashboard-on-your-signs.md": "files/1r4cj30obzsv",
@@ -454,5 +454,6 @@
   "how-to-use-the-notion-app.md": "files/gfbgdqdoetp6",
   "how-to-use-the-asana-app.md": "files/3u3gd1owwoj7",
   "how-to-use-the-trello-app.md": "files/y7zb83oiqr7w",
-  "how-to-use-the-twitch-app.md": "files/it9zbgx5gxtt"
+  "how-to-use-the-twitch-app.md": "files/it9zbgx5gxtt",
+  "how-to-use-the-zendesk-app.md": "files/xfr6ezgucg4p"
 }
